@@ -1,0 +1,1 @@
+En esta carpeta subiremos los scripts de Python para scrapear la Plataforma de Contratación. Próximamente: downloader_A5.py.
