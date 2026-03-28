@@ -6,9 +6,11 @@ Este repositorio es una herramienta de transparencia ciudadana basada en **Datos
 ---
 
 ## 📁 Estructura del Repositorio
-* **[/scripts/](./scripts/)**: Herramientas de automatización para la descarga masiva de archivos.
-* **[/prompts/](./prompts/)**: La "lógica" de auditoría diseñada para detectar sobrecostes.
-* **[/docs/](./docs/)**: Versiones procesadas de los pliegos (aquí subiremos los resúmenes).
+
+* **/data/raw/presupuestos/**: 🚩 **ADN de la Obra**. Archivos nativos .PrestoObra (Licitación oficial).
+* **/scripts/**: Herramientas de automatización para la descarga masiva de archivos.
+* **/prompts/**: La "lógica" de auditoría diseñada para detectar sobrecostes.
+* **/docs/**: Versiones procesadas de los pliegos (aquí subiremos los resúmenes).
 
 ## 🤝 Cómo Colaborar (Squads de Trabajo)
 Buscamos perfiles activos para las siguientes misiones:
