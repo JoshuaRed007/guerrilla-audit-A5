@@ -1,21 +1,27 @@
-MIT License
+# Escudo Legal - Nodo A-5 (Ciencia de Guerrilla)
 
-Copyright (c) 2026 JoshuaRed
+## 1. Código y Herramientas (Software)
+El código, los scripts de automatización y los prompts de IA contenidos en este repositorio se distribuyen bajo la **Licencia MIT**.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Copyright (c) 2024 Nodo A-5 / IA_sin_Fronteras
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Se concede permiso por la presente, de forma gratuita, a cualquier persona que obtenga una copia de este software y de los archivos de documentación asociados, para utilizar el software sin restricción, incluyendo sin limitación los derechos a usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y/o vender copias del mismo, sujeto a las siguientes condiciones:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+* El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del software.
+
+## 2. Datos, Auditorías y Hallazgos (Contenido)
+Toda la información resultante de la auditoría, resúmenes de pliegos, análisis de costes y bases de datos procesadas se publican bajo la licencia **Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)**.
+
+Eres libre de:
+* **Compartir**: Copiar y redistribuir el material en cualquier medio o formato.
+* **Adaptar**: Remezclar, transformar y construir a partir del material.
+
+Bajo las siguientes condiciones:
+* **Atribución**: Debe reconocer adecuadamente la autoría (Nodo A-5) y proporcionar un enlace a la licencia.
+* **NoComercial**: No puede utilizar el material con fines comerciales.
+* **CompartirIgual**: Si remezcla o transforma el material, debe distribuir sus contribuciones bajo la misma licencia que el original.
+
+## 3. Descargo de Responsabilidad
+Este proyecto es una iniciativa de **Ciencia de Guerrilla** para la transparencia ciudadana. Los datos originales pertenecen a la administración pública y se obtienen de fuentes oficiales (Plataforma de Contratación del Estado). El Nodo A-5 no se hace responsable del uso indebido de las herramientas o de las interpretaciones erróneas que terceros puedan hacer de los datos brutos. Las alertas técnicas de la IA son indicios, no imputaciones legales.
+
+"La opacidad administrativa termina donde empieza nuestra curiosidad técnica." ✊
